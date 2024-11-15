@@ -15,9 +15,9 @@ body {
     text-align: center;
 }
 
-/* Style the heading with a "metal" font */
+/* Style the heading with the New Rocker font */
 h1 {
-    font-family: 'Bebas Neue', sans-serif;  /* Use Bebas Neue for the metal look */
+    font-family: 'New Rocker', sans-serif;  /* Use New Rocker font */
     font-size: 8rem;  /* Increase the size of the text */
     font-weight: bold;
     letter-spacing: 8px;  /* Add some spacing for a more dramatic look */
