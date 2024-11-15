@@ -18,7 +18,7 @@ body {
 /* Style the heading with the New Rocker font */
 h1 {
     font-family: 'New Rocker', sans-serif;  /* Use New Rocker font */
-    font-size: 8rem;  /* Increase the size of the text */
+    font-size: 6rem;  /* Reduce the size of the text a bit (from 8rem to 6rem) */
     font-weight: bold;
     letter-spacing: 8px;  /* Add some spacing for a more dramatic look */
     text-transform: uppercase;
@@ -29,7 +29,7 @@ h1 {
 
 /* Style the image */
 img {
-    max-width: 33%;  /* Shrink the image to 33% of the page width */
+    max-width: 40%;  /* Increase the image size to 40% of the page width (from 33%) */
     height: auto;
     border-radius: 10px; /* Optional, for rounded corners */
 }
