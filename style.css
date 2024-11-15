@@ -27,7 +27,7 @@ h1 {
 
 /* Style the image */
 img {
-    max-width: 33%;  /* Reduce this to make the image smaller */
+    max-width: 33%;  /* Set the image to take up at most 33% of the width */
     height: auto;
     border-radius: 10px; /* Optional, for rounded corners */
 }
