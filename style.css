@@ -1,0 +1,33 @@
+/* Apply a black background to the entire page */
+body {
+    background-color: black;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+/* Center content in a container */
+.container {
+    text-align: center;
+}
+
+/* Style the heading */
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 20px;
+}
+
+/* Style the image */
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px; /* Optional, for rounded corners */
+}
