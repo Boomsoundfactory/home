@@ -15,19 +15,21 @@ body {
     text-align: center;
 }
 
-/* Style the heading */
+/* Style the heading with a "metal" font */
 h1 {
-    font-size: 4rem;
+    font-family: 'Bebas Neue', sans-serif;  /* Use Bebas Neue for the metal look */
+    font-size: 8rem;  /* Increase the size of the text */
     font-weight: bold;
-    letter-spacing: 5px;
+    letter-spacing: 8px;  /* Add some spacing for a more dramatic look */
     text-transform: uppercase;
     color: white;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.7);  /* Optional: Add a shadow to make it pop */
     margin-bottom: 20px;
 }
 
 /* Style the image */
 img {
-    max-width: 33%;  /* Set the image to take up at most 33% of the width */
+    max-width: 33%;  /* Shrink the image to 33% of the page width */
     height: auto;
     border-radius: 10px; /* Optional, for rounded corners */
 }
